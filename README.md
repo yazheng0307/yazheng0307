@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liu-yi-shou
+- 👋 Hi, I’m @LiuYiShou
 - 👀 I’m interested in ComputerVision
 - 🌱 I’m currently learning Vision Multimodal Models
 - 💞️ I’m looking to collaborate on the construction of the artificial intelligence community.
