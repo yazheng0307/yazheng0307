@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yazheng0307
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @liu-yi-shou
+- 👀 I’m interested in ComputerVision
+- 🌱 I’m currently learning Vision Multimodal Models
+- 💞️ I’m looking to collaborate on the construction of the artificial intelligence community.
+- 📫 How to reach me：981638732
 
 <!---
 yazheng0307/yazheng0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
